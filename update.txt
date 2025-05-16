@@ -1,0 +1,2 @@
+1.1
+https://github.com/hamobile/QRCode/releases/download/Version1.1/QRCode.exe
