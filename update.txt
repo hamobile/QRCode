@@ -1,2 +1,11 @@
-1.1
-https://github.com/hamobile/QRCode/releases/download/Version1.1/QRCode.exe
+{
+  "version": "1.1",
+  "url": "https://github.com/hamobile/QRCode/releases/download/Version1.1/QRCode.exe",
+  "changelog": [
+    "✔️ Fix Nhập Ký Hiệu QRID",
+    "❗ Thêm thông báo lỗi API",
+    "💳 Hỗ trợ check thanh toán qua Sepay",
+    "🖼️ Tạo QR với 2 tuỳ chọn (Chỉ QR - QR logo VietQR)",
+    "🔄 Tự động cập nhật khi có phiên bản mới"
+  ]
+}
