@@ -6,8 +6,8 @@
     "❗ Thêm thông báo lỗi API",
     "💳 Hỗ trợ check thanh toán qua Sepay",
     "🖼️ Tạo QR với 2 tuỳ chọn (Chỉ QR - QR logo VietQR)",
-    "🔄 Hỗ trợ xuất ảnh QR ra màn hình thanh toán"
-    "Thêm tuỳ chọn tạo lối tắt"
+    "🔄 Hỗ trợ xuất ảnh QR ra màn hình thanh toán",
+    "Thêm tuỳ chọn tạo lối tắt",
     "Thêm ngày giờ"
   ]
 }
