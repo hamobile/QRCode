@@ -2,11 +2,12 @@
   "version": "1.2",
   "url": "https://github.com/hamobile/QRCode/releases/download/Version1.2/QRCode.exe",
   "changelog": [
-    "✔️ Fix Nhập Ký Hiệu QRID",
-    "❗ Thêm thông báo lỗi API",
-    "💳 Hỗ trợ check thanh toán qua Sepay",
-    "🖼️ Tạo QR với 2 tuỳ chọn (Chỉ QR - QR logo VietQR)",
-    "🔄 Hỗ trợ xuất ảnh QR ra màn hình thanh toán",
+    "Thêm Ngân Hàng BIDV Cho AP Mobile",
+    "Fix Nhập Ký Hiệu QRID",
+    "Thêm thông báo lỗi API",
+    "Hỗ trợ check thanh toán qua Sepay",
+    "Tạo QR với 2 tuỳ chọn (Chỉ QR - QR logo VietQR)",
+    "Hỗ trợ xuất ảnh QR ra màn hình thanh toán",
     "Thêm tuỳ chọn tạo lối tắt",
     "Thêm ngày giờ"
   ]
